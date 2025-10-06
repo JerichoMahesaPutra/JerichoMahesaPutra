@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hai 👋, saya Jericho Mahesa Putra</h1>
+<h3 align="center">Seorang pelajar dari Indonesia</h3>
+<img width="1020" heigth="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dW50MWZlMGlwM2VsMDRqbWYwYTY1ZGdndnZqa21mN2U0ZDNhN3RzZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/pIYzr864MJ9WU/giphy.gif" alt="EVA GIF">
+- 🌱 Saat ini saya sedang belajar **Javascript**
 
-<!--
-**JerichoMahesaPutra/JerichoMahesaPutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 Cara menghubungi saya **jerichoputra@gmail.com**
 
-Here are some ideas to get you started:
+- ⚡ Fakta menarik **hobi saya adalah tidak melakukan apa pun**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerichomahesaputra&label=Profile%20views&color=0e75b6&style=flat" alt="jerichomahesaputra" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerichomahesaputra" alt="jerichomahesaputra" /></a> </p>
+
+<h3 align="left">Hubungi saya:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jericho-mahesa-putra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jericho-mahesa-putra" height="30" width="40" /></a>
+<a href="https://instagram.com/jee.cho0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jee.cho0" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Bahasa dan Alat:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jerichomahesaputra&show_icons=true&locale=en" alt="jerichomahesaputra" /></p>
